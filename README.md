@@ -30,7 +30,7 @@
   • Good hands-on knowledge of Source Code Management (Version Control System) tools like Git.<br>
   • Proficient in developing Continuous Integration/Delivery pipelines.<br>
   • Experience with automation/integration tools like Jenkins.<br>
-  • Working knowledge of Infrastructure as Code (Programmable Infrastructure) using tools like Ansible.<br>
+  • Working knowledge of Infrastructure as Code (Programmable Infrastructure) using tools like Terraform and on Configuration managment tool like Ansible.<br>
   • Proficient with code quality/security analysis using tools like SonarQube.<br>
   • Good working knowledge of cloud service providers like AWS.<br>
   • Good understanding of software containerization platforms like Docker and container orchestration tools like Kubernetes.<br>
