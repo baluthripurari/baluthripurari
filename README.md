@@ -33,12 +33,12 @@
   • Working knowledge of Infrastructure as Code (Programmable Infrastructure) using tools like Terraform and on Configuration managment tool like Ansible.<br>
   • Proficient with code quality/security analysis using tools like SonarQube.<br>
   • Good working knowledge of cloud service providers like AWS.<br>
-  • Good understanding of software containerization platforms like Docker and container orchestration tools like Kubernetes.<br>
+  • Good understanding of software containerization platforms like Docker <br>
   • Good knowledge of microservices integration with the build and deployment pipeline.<br><br>
   <strong>Major skills and tools:</strong><br>
   Linux, Terraform<br>
-  CICD, Jenkins, Ansible<br>
-  Docker, Kubernetes, Shell-Scripting<br>
+  Ansible<br>
+  Docker,  Shell-Scripting<br>
   Prometheus & Grafana, AWS Services (EC2, S3, Route53, EKS, ECS, DynamoDB, RDS, CloudWatch, VPC, etc.)
 </p>
 
