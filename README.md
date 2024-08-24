@@ -80,7 +80,6 @@
   AWS Cloud Practitioner<br>
   AWS sysops Administrator Udemey<br><br>
   <strong>Achievements:</strong><br>
-  Performance Metrics: Reduced deployment times by 30% through automation.<br>
   Awards or Recognition: Employee of the Month for exceptional work on AWS infrastructure
 </p>
 
