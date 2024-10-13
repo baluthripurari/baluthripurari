@@ -26,7 +26,7 @@
 <h3 align="left">👩‍💻 About Me</h3>
 
 <p align="left">
-  • 2.7 years of experience in the software development industry with a primary focus on Build, Release, and software configuration management.<br>
+  • 2.8 years of experience in the software development industry with a primary focus on Build, Release, and software configuration management.<br>
   • Good hands-on knowledge of Source Code Management (Version Control System) tools like Git.<br>
   • Proficient in developing Continuous Integration/Delivery pipelines.<br>
   • Experience with automation/integration tools like Jenkins.<br>
