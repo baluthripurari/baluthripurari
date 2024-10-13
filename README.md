@@ -39,7 +39,7 @@
   Linux, Terraform<br>
   Ansible<br>
   Docker,  Shell-Scripting<br>
-  Prometheus & Grafana, AWS Services (EC2, S3, Route53, EKS, ECS, DynamoDB, RDS, CloudWatch, VPC, etc.)
+  Prometheus & Grafana, AWS Services (EC2, S3, Route53, EKS, ECS, DynamoDB, RDS, CloudWatch, VPC,IAM etc.)
 </p>
 
 ###
