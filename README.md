@@ -5,7 +5,7 @@
 </div>
 
 <h1 align="center">Hi there 👋, I'm Balu Thripurari</h1>
-<h3 align="center">🚀 DevOps & AWS SysOps Engineer | Passionate about Cloud, Automation & Scalability</h3>
+<h3 align="center">🚀 DevOps & AWS Cloud Engineer | Passionate about Cloud, Automation & Scalability</h3>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/balu-thripurari-b77515235/" target="_blank">
@@ -26,8 +26,8 @@
 
 ### 👨‍💻 About Me
 
-- 🔧 3+ years of hands-on experience in DevOps, Build & Release Engineering, and Cloud Infrastructure.
-- 🌐 Specialized in AWS cloud services, Terraform (IaC), Jenkins, Docker, Kubernetes, and Ansible.
+- 🔧 4+ years of hands-on experience in DevOps, Build & Release Engineering, and Cloud Infrastructure.
+- 🌐 Specialized in AWS cloud services, Terraform (IaC), Jenkins, Docker, Kubernetes,Sonarqube and Ansible.
 - ⚙️ Strong expertise in CI/CD pipeline automation, monitoring (Prometheus & Grafana), and version control with Git.
 - 📦 Skilled in containerizing and deploying microservices and applications in scalable cloud environments.
 - 🛠️ Proven ability to enhance infrastructure efficiency and reliability through automation and best practices.
